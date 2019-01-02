@@ -1,10 +1,11 @@
 /* 评论组件样式 */
 .comment {
-    display: flex;
-    border-bottom: 1px solid #f1f1f1;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    min-height: 50px;
+  position: relative;
+  display: flex;
+  border-bottom: 1px solid #f1f1f1;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  min-height: 50px;
   }
   
   .comment .comment-user {
